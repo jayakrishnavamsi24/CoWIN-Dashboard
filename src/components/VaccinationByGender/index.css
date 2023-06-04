@@ -1,0 +1,16 @@
+.vaccination-gnd-container {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #1c1c2b;
+  padding: 2%;
+  border-radius: 7px;
+  margin-top: 20px;
+}
+
+.vaccination-gnd-container > h1 {
+  color: #cbd5e1;
+  font-size: 15px;
+  text-align: center;
+}
